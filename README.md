@@ -33,9 +33,10 @@
 
 ## 🔗 Let's Connect
 
-- 🌐 [My Portfolio Website](#) *(coming soon)*  
-- 💼 [LinkedIn](https://shorturl.at/enlf8)  
+- 🌐 [My Portfolio Website](https://abuabdullahakash.github.io/my-portfolio/)
+- 💼 [LinkedIn](https://shorturl.at/enlf8)
 - 🧠 [GitHub Projects](https://github.com/abuabdullahakash)
+- 📧 Email: [abuabdullahakash@gmail.com](mailto:abuabdullahakash@gmail.com)
 
 ---
 
